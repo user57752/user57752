@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on Windows application
 - 📫 How to reach me ?
-Email：N/A
+Email：pacw9uzr@anonaddy.com
 
 <!---
 user57752/user57752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
