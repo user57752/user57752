@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @user57752
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on Windows application
+- 💞️ I’m looking to collaborate on devolopments of Windows softwares
 - 📫 How to reach me ?
 Email：user57752_github@snowhouse.dpdns.org
 
